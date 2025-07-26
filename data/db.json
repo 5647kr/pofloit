@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "id": "756b9e74-5885-4faa-B4d9-3046ea67d329",
+      "name": "우령",
+      "desc": "단골픽 맛집❤️ 주로 방송용짤, 로그 등을 그립니다. 빠른 마감, 높은 재방문율, AS보장! 맡겨보시면 압니다 😘",
+      "bgImg": "/assets/img/authorBg/우령bg.png",
+      "profileImg": "/assets/img/authorProfile/우령profile.png",
+      "tag": ["#Photoshop", "#Illustrator"],
+      "personalColor": "#562C89"
+    },
+    {
+      "id": "9dac1b72-b058-430a-C4aa-9c2c9a6e874d",
+      "name": "김태은",
+      "desc": "허상을 그리는 작가 지망생",
+      "bgImg": "/assets/img/authorBg/김태은bg.png",
+      "profileImg": "/assets/img/authorProfile/김태은profile.png",
+      "tag": ["#Photoshop", "#Illustrator"],
+      "personalColor": "#ffffff"
+    },
+    {
+      "id": "b30ac7f4-4ba7-4fc0-B646-293cb11233a4",
+      "name": "SuperDry",
+      "desc": "아사히 수퍼드라이 맥주, 너무 맛있다. 오사카 너무 재밌었다.",
+      "bgImg": "/assets/img/authorBg/SuperDrybg.png",
+      "profileImg": "/assets/img/authorProfile/SuperDryprofile.png",
+      "tag": ["#Photoshop", "#Illustrator"],
+      "personalColor": "#FFEE00"
+    },
+    {
+      "id": "daa352a5-3297-4e24-C78f-c6ae995be927",
+      "name": "KARAMUKURA",
+      "desc": "라멘은 이치란. 이찌방 라멘 하지만 KURAMUKURA도 맛있다.",
+      "bgImg": "/assets/img/authorBg/KARAMUKURAbg.png",
+      "profileImg": "/assets/img/authorProfile/KARAMUKURAprofile.png",
+      "tag": ["#Photoshop", "#Photographer"],
+      "personalColor": "#000000"
+    },
+    {
+      "id": "d1c6f760-48e2-416e-C71c-f02a371096e8",
+      "name": "아이스크리무",
+      "desc": "아이스크리무와 혼또 오이시데스 와타시와 아이스크리무 혼또 혼또 스키데스네",
+      "bgImg": "/assets/img/authorBg/아이스크리무bg.png",
+      "profileImg": "/assets/img/authorProfile/아이스크리무profile.png",
+      "tag": ["#아이스크림", "#미식가"],
+      "personalColor": "#ffffff"
+    },
+    {
+      "id": "a405c22e-788c-440a-A5b5-9941c8c4b2ed",
+      "name": "치킨앤비어",
+      "desc": "치킨 조아요 맥주 조아요 토리키주쿠 좋아요 가성비 짱",
+      "bgImg": "/assets/img/authorBg/치킨앤비어bg.png",
+      "profileImg": "/assets/img/authorProfile/치킨앤비어profile.png",
+      "tag": ["#Photoshop", "#Illustrator"],
+      "personalColor": "#030D7F"
+    },
+    {
+      "id": "c94f8910-3b73-42cd-Af96-80c094ac466e",
+      "name": "OSAKALOVE",
+      "desc": "아사히 수퍼드라이 맥주, 너무 맛있다. 오사카 너무 재밌었다.",
+      "bgImg": "/assets/img/authorBg/OSAKALOVEbg.png",
+      "profileImg": "/assets/img/authorProfile/OSAKALOVEprofile.png",
+      "tag": ["#Photoshop", "#Illustrator"],
+      "personalColor": "#00FFDD"
+    },
+    {
+      "id": "e7375e5f-c814-4032-C592-35f86465ee07",
+      "name": "아이스크리무린",
+      "desc": "아이짱 다이스키!! 혼또 혼또!! 린짱 나니가스키? 초코민또 오래모 아.나.타.❤️",
+      "bgImg": "/assets/img/authorBg/아이스크리무린bg.png",
+      "profileImg": "/assets/img/authorProfile/아이스크리무린profile.png",
+      "tag": ["#버튜버", "#씹덕"],
+      "personalColor": "#90C2FF"
+    }
+  ]
+}
