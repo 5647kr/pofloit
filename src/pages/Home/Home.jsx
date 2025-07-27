@@ -42,8 +42,28 @@ const CardSection = styled.section`
   & > ul {
     height: 100%;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: 1fr;
     gap: 30px;
+  }
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    & > ul {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media screen and (min-width: 769px) and (max-width: 1024px) {
+    & > ul {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  @media screen and (min-width:1024px) and (max-width: 1439px) {
+    & > ul {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  @media screen and (min-width:1440px) {
+    & > ul {
+      grid-template-columns: repeat(4, 1fr);
+    }
   }
 
   & > ul > li {

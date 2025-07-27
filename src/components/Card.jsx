@@ -24,7 +24,7 @@ export default function Card({ name, desc, bgImg, profileImg, tag, color }) {
 
 const CardWrap = styled.div`
   width: 100%;
-  max-width: 300px;
+  /* max-width: 300px; */
   height: 400px;
   box-shadow: 0 4px 4px var(--sub-color);
   border-radius: 10px;
@@ -32,12 +32,12 @@ const CardWrap = styled.div`
 `;
 
 const ImgWrap = styled.div`
-  position: relative;
+  width: 100%;
   height: 200px;
+  position: relative;
   & > img {
     width: 100%;
-    height: inherit;
-    /* object-fit: cover; */
+    height: 100%;
   }
 `;
 
@@ -52,6 +52,7 @@ const ProfileImg = styled.div`
   top: 160px;
   & > img {
     width: 100%;
+    height: 100%;
     object-fit: cover;
   }
 `;
